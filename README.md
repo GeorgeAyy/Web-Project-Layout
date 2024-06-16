@@ -13,7 +13,7 @@
    Navigate to the project directory and install the required npm packages:
 
    ```bash
-   cd demo-application
+   cd Web-Project-Layout
    npm install
    ```
 
